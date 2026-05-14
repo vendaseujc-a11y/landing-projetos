@@ -15,7 +15,8 @@ const projetos = [
         tag: "Economia",
         descricao: "Plataforma integrada para conectar lojistas e consumidores da cidade, fortalecendo a economia local.",
         cor: "from-green-400 to-blue-500",
-        cta: "Ver Plataforma"
+        cta: "Ver Plataforma",
+        link: "https://santafe-market.vercel.app/"
     },
     {
         id: 2,
